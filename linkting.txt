@@ -1,0 +1,14 @@
+https://www.w3schools.com/css/css_background.asp - fixed background image
+https://www.w3schools.com/css/css3_animations.asp - moving animated div
+https://www.w3schools.com/css/css3_pagination.asp - page numbers
+
+
+
+BACKGROUND 20
+.btn {
+  background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+}
+
+http://javascript-roadtrip.codeschool.com/levels/1?utm_source=javascript&utm_medium=referral&utm_campaign=js ------ JavaScript
+https://fonts.google.com/ ----------------------------------------------------------------------------------------- Fonts
+https://en.wikipedia.org/wiki/Extreme_sport ----------------------------------------------------------------------- Extreme Sports list
